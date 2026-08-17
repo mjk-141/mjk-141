@@ -4,7 +4,7 @@
   
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=FinOps+%26+Cloud+Engineer+%40+AhnLab;AWS+Cloud+Architecture+%26+Cost+Optimization;Infrastructure+as+Code+(IaC)+%26+Automation;Building+Resilient+%26+Cost-Effective+Cloud" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1600&size=20&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=FinOps+%26+Cloud+Engineer+%40+AhnLab;AWS+Cloud+Architecture+%26+Cost+Optimization;Infrastructure+as+Code+(IaC)+%26+Automation;Building+Resilient+%26+Cost-Effective+Cloud" alt="Typing SVG" />
     </a>
   </p>
 
