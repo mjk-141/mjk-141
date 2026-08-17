@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/github_profile.gif" width="140" alt="Profile Icon" />
+  <img src="asset/github_profile.gif" width="900" alt="Profile Icon" />
   <h1>Hi there, I'm Jaeman Kim (김재만) 👋</h1>
   
   <p align="center">
